@@ -1,17 +1,9 @@
-# Banco de Dados Jus 9
+# DB Jus 9 Modelos e Migrações
 
-## Repertório
+Repertório: `db-jus9-modelos-migracoes`
 
-`db-jus9-modelos-migracoes`
+Status: novo/técnico
 
-## Status
+Mão na Massa Final — padrão visual, assinatura, governança e orientação obrigatória.
 
-novo
-
-## Fase
-
-Pré-Mão na Massa — Pacote Governança encerrado.
-
-## Finalidade
-
-Cria base para modelos de dados, migrações, seeds e documentação de entidades da Jus 9.
+© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
